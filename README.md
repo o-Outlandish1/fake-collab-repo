@@ -12,7 +12,7 @@ A basic bootstrap boilerplate to start a mobile-friendly website
 
 ## Installation
 
-- Git [git](https://gitscm.com)
+- Get [git](https://gitscm.com)
 - Text editor or [VS Code](https://code.visualstudio.com/)
 - Clone repository `git clone <repo>`
 
